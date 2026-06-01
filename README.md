@@ -62,6 +62,3 @@ pip install mne scikit-learn xgboost pandas numpy scipy matplotlib seaborn
 
 Open and run `MotorImaginery.ipynb` in order. Data downloads automatically on first run.
 
-## Author
-
-Jessica Brenda Escalante
